@@ -12,11 +12,12 @@ With over 25+ years of expertise in the information technology and services indu
 
 I have curated a selection of my significant projects on my GitHub profile. If you would like access to view my work, please contact me directly.
 
-- **AI-driven Customer Support Chatbot**: A sophisticated chatbot integrated with a CRM system, built using .NET Core, Blazor, and TensorFlow for natural language processing.
-- **Enterprise Resource Planning (ERP) System**: A comprehensive ERP system for medium to large enterprises, developed with ASP.NET Core, SQL Server, and Angular.
-- **Healthcare Management System**: A robust system for managing patient records, appointments, and billing, created using Java Spring Boot, MySQL, and React.
-- **E-commerce Platform**: A scalable e-commerce platform with features like product management, shopping cart, and payment integration, built with PHP, Laravel, and MySQL.
-- **Library Management System**: A Python application using Tkinter for managing library operations, including book inventory, member management, and loan tracking.
+- **CRM System**: A comprehensive CRM built with .NET Core 8, Blazor, and AI-driven chatbot integration using TensorFlow.
+- **Language Learning Mobile Application**: A cross-platform app for vocabulary learning built with .NET Core 8 and .NET MAUI.
+- **Teacher Management Application**: A Java-based desktop application demonstrating OOP principles with Swing and MySQL.
+- **Retail Analytics and Market Analysis Project**: Data analysis using R for statistical analysis and predictive modeling.
+- **E-commerce Application**: A full-stack solution built with PHP and MySQL.
+- **Library Management System**: A Python application using Tkinter for managing library operations.
 
 ## Significant Projects from Professional Experience
 
@@ -28,11 +29,10 @@ I have curated a selection of my significant projects on my GitHub profile. If y
   - Performed a technical audit on the current MOSS 2007 environment and prepared the migration projects (MOSS 2007 to MOSS 2010).
   - Migrated data and functionalities from MOSS 2007 to MOSS 2010 and developed additional features to enhance the system's performance and usability.
 - Technologies and Methodologies:
-  - Windows Server 2008 R2, DNS, SMTP, Active Directory, IIS 7.5, SSL Certificates, Microsoft Exchange 2010.
-  - Microsoft Office SharePoint Server 2007, Microsoft SharePoint Server 2010, Multi-Farm Architecture, Migration Management Tools.
-  - CAML, SharePoint PowerShell Scripts, SQL Server 2008 R2, SQL Reporting Services, Transact-SQL (T-SQL), HTML/CSS, JavaScript.
-  - Visual Studio 2008 C# .NET 3.5, LINQ, XML, XSL, XSLT, XSD, Bootstrap, JQuery, MS Office, MS Project, MS Visio, UML.
-  - Installation, configuration, architecture, content management, collaboration, reports, external content type, master pages, content types, search, customization, and custom workflows.
+  - Windows Server, Active Directory, IIS, Microsoft Exchange
+  - Microsoft SharePoint Server, SharePoint Designer, PowerShell Scripts, SQL Server
+  - Visual Studio, C# .NET, LINQ, XML, JavaScript
+  - Content Management, Collaboration, Reports, Custom Workflows, SCRUM Methodology
 
 ### Cosmote e-Value
 **Senior Software Engineer (Mar 2016 - Present)**
