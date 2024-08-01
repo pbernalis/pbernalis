@@ -1,38 +1,43 @@
 # About Me
 
-With over 25+ years of expertise in the information technology and services industry, I am a seasoned Software Engineer known for delivering high-quality software solutions. My diverse skill set includes Databases, Web Applications, SharePoint, Android, AI, Social Media, and Quality Assurance. I excel in designing and developing complex software systems tailored to meet the unique needs of clients and end-users.
+With over 25 years of expertise in the information technology and services industry, I am a seasoned Software Engineer known for delivering high-quality software solutions. My diverse skill set spans Databases, Web Applications, SharePoint, Android, AI, Social Media, and Quality Assurance. I excel in designing and developing complex software systems tailored to meet the unique needs of clients and end-users.
 
 ## Professional Experience and Skills
 
-- Extensive experience in the software development lifecycle: requirements gathering, design, development, testing, and deployment.
-- Proven ability to manage projects ranging from small-scale applications to large-scale enterprise systems.
-- Strong collaboration and communication skills, enabling effective teamwork with diverse stakeholders.
+- **Extensive Experience in SDLC**: Proficient in requirements gathering, design, development, testing, and deployment.
+- **Project Management**: Proven ability to manage projects from small-scale applications to large-scale enterprise systems.
+- **Collaboration and Communication**: Strong skills in working effectively with diverse stakeholders.
 
-## Notable GitHub Projects
+## Notable Projects and Repositories
 
 I have curated a selection of my significant projects on my GitHub profile. If you would like access to view my work, please contact me directly.
 
-- **CRM System**: A comprehensive CRM built with .NET Core 8, Blazor, and AI-driven chatbot integration using TensorFlow.
-- **Language Learning Mobile Application**: A cross-platform app for vocabulary learning built with .NET Core 8 and .NET MAUI.
-- **Teacher Management Application**: A Java-based desktop application demonstrating OOP principles with Swing and MySQL.
+### Projects
+
+- **CRM System**: Comprehensive CRM built with .NET Core 8, Blazor, and AI-driven chatbot integration using TensorFlow.
+- **Language Learning Mobile Application**: Cross-platform app for vocabulary learning built with .NET Core 8 and .NET MAUI.
+- **Teacher Management Application**: Java-based desktop application demonstrating OOP principles with Swing and MySQL.
 - **Retail Analytics and Market Analysis Project**: Data analysis using R for statistical analysis and predictive modeling.
-- **E-commerce Application**: A full-stack solution built with PHP and MySQL.
-- **Library Management System**: A Python application using Tkinter for managing library operations.
+- **E-commerce Application**: Full-stack solution built with PHP and MySQL.
+- **Library Management System**: Python application using Tkinter for managing library operations.
+- **AssignmentAI**: A sophisticated AI-based project created to assist in automated assignment grading and feedback generation, leveraging the power of machine learning and natural language processing.
+  
+Feel free to reach out via LinkedIn messages or email for any inquiries or access requests.
 
 ## Significant Projects from Professional Experience
 
 ### European Chemicals Agency (ECHA)
 **Migration Project for European Institution (Oct 2012 - Jul 2014)**
-- Role: Senior Software Developer
-- Responsibilities:
-  - Conducted design, migration, development, integration, testing, and documentation of the SharePoint solution based on Multi-farm Microsoft SharePoint Server Enterprise 2010.
-  - Performed a technical audit on the current MOSS 2007 environment and prepared the migration projects (MOSS 2007 to MOSS 2010).
-  - Migrated data and functionalities from MOSS 2007 to MOSS 2010 and developed additional features to enhance the system's performance and usability.
-- Technologies and Methodologies:
+- **Role**: Senior Software Developer
+- **Responsibilities**:
+  - Conducted design, migration, development, integration, testing, and documentation of the SharePoint solution.
+  - Performed a technical audit on the MOSS 2007 environment and prepared migration projects.
+  - Migrated data and functionalities from MOSS 2007 to MOSS 2010, enhancing system performance and usability.
+- **Technologies**:
   - Windows Server, Active Directory, IIS, Microsoft Exchange
   - Microsoft SharePoint Server, SharePoint Designer, PowerShell Scripts, SQL Server
   - Visual Studio, C# .NET, LINQ, XML, JavaScript
-  - Content Management, Collaboration, Reports, Custom Workflows, SCRUM Methodology
+  - SCRUM Methodology
 
 ### Cosmote e-Value
 **Senior Software Engineer (Mar 2016 - Present)**
@@ -42,7 +47,7 @@ I have curated a selection of my significant projects on my GitHub profile. If y
 
 ### European Dynamics
 **Senior Software Engineer (Oct 2012 - Mar 2016)**
-- Led the migration project for the European Chemicals Agency, moving from MOSS 2007 to SharePoint 2010.
+- Led the migration project for the European Chemicals Agency.
 - Managed the development and integration of SharePoint-based solutions.
 - Employed technologies including SQL Server, CAML, PowerShell, and various web development tools.
 
@@ -66,35 +71,5 @@ I have curated a selection of my significant projects on my GitHub profile. If y
 - **Machine Learning Model for Predictive Maintenance**: Developed a machine learning model using Python and scikit-learn to predict equipment failures and schedule maintenance.
 - **Social Media Analytics Dashboard**: Created a dashboard to analyze social media metrics and sentiment using R and Shiny.
 - **Android Mobile Application for Fitness Tracking**: Designed and implemented an Android app for tracking workouts and progress, integrated with Firebase for real-time data storage and authentication.
-
-## Private Repositories
-
-### MAUILanguageLearner - Private
-A mobile application for learning new languages using flashcards and interactive methods. Built with .NET Core 8 for the backend API and .NET MAUI for the cross-platform mobile application targeting iOS and Android.
-
-### JavaTeacherManager - Private
-A Java-based application for managing teacher records, developed for an OOP and Commercial Application Development course. Features include creating, searching, updating, and deleting records in a user-friendly interface.
-* **Language:** Java
-
-### Market-Analysis-R - Private
-This project performs a comprehensive market analysis for a manufacturing company, involving data cleaning, statistical analysis, and visualization using R. It includes sales trend analysis, product performance assessment, and market forecasting.
-* **Language:** R
-
-### PizzaBites - Private
-A PHP-based e-commerce application for PizzaBites, featuring dynamic pages for product management, user registration, login, and shopping cart functionalities. Utilizes MySQL for database operations.
-* **Language:** PHP
-
-### BookLibraryManagementSystem - Private
-This GitHub project develops a Library Management System for member profiles and book loans. It includes features like profile creation, loan management, and statistical analysis, implemented in Python.
-* **Language:** Python
-
-### CRMCore - Private
-Developed a CRM system for call centers, enhancing customer and campaign management. Features include customer info and interaction management, campaign tracking, and an AI-driven chatbot using Python and other technologies.
-
-### AssignmentAI - Private
-A sophisticated AI-based project created to assist in automated assignment grading and feedback generation, leveraging the power of machine learning and natural language processing.
-* **Language:** Python
-
-Feel free to reach out via LinkedIn messages or email for any inquiries or access requests.
 
 I am passionate about staying current with the latest technologies and industry trends, continuously seeking innovative ways to solve problems and enhance the user experience. My dedication to exceptional results and business objectives drives my commitment to excellence in software engineering.
