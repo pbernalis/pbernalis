@@ -58,11 +58,6 @@ Feel free to reach out via LinkedIn messages or email for any inquiries or acces
 - Developed a Business Process Management solution to optimize core company management procedures.
 - Utilized SharePoint 2010, IIS, and SQL Server for robust document and workflow management.
 
-### Cosmote e-Value
-**Senior Software Engineer (Mar 2016 - Present)**
-- Developed and maintained enterprise applications using C#, .NET Core, and SQL Server.
-- Utilized technologies such as Blazor, Azure DevOps, and RESTful WebServices.
-
 ## Additional Projects
 
 - **Machine Learning Model for Predictive Maintenance**: Developed a machine learning model using Python and scikit-learn to predict equipment failures and schedule maintenance.
