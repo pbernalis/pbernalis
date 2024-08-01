@@ -67,6 +67,34 @@ I have curated a selection of my significant projects on my GitHub profile. If y
 - **Social Media Analytics Dashboard**: Created a dashboard to analyze social media metrics and sentiment using R and Shiny.
 - **Android Mobile Application for Fitness Tracking**: Designed and implemented an Android app for tracking workouts and progress, integrated with Firebase for real-time data storage and authentication.
 
+## Private Repositories
+
+### MAUILanguageLearner - Private
+A mobile application for learning new languages using flashcards and interactive methods. Built with .NET Core 8 for the backend API and .NET MAUI for the cross-platform mobile application targeting iOS and Android.
+
+### JavaTeacherManager - Private
+A Java-based application for managing teacher records, developed for an OOP and Commercial Application Development course. Features include creating, searching, updating, and deleting records in a user-friendly interface.
+* **Language:** Java
+
+### Market-Analysis-R - Private
+This project performs a comprehensive market analysis for a manufacturing company, involving data cleaning, statistical analysis, and visualization using R. It includes sales trend analysis, product performance assessment, and market forecasting.
+* **Language:** R
+
+### PizzaBites - Private
+A PHP-based e-commerce application for PizzaBites, featuring dynamic pages for product management, user registration, login, and shopping cart functionalities. Utilizes MySQL for database operations.
+* **Language:** PHP
+
+### BookLibraryManagementSystem - Private
+This GitHub project develops a Library Management System for member profiles and book loans. It includes features like profile creation, loan management, and statistical analysis, implemented in Python.
+* **Language:** Python
+
+### CRMCore - Private
+Developed a CRM system for call centers, enhancing customer and campaign management. Features include customer info and interaction management, campaign tracking, and an AI-driven chatbot using Python and other technologies.
+
+### AssignmentAI - Private
+A sophisticated AI-based project created to assist in automated assignment grading and feedback generation, leveraging the power of machine learning and natural language processing.
+* **Language:** Python
+
 Feel free to reach out via LinkedIn messages or email for any inquiries or access requests.
 
 I am passionate about staying current with the latest technologies and industry trends, continuously seeking innovative ways to solve problems and enhance the user experience. My dedication to exceptional results and business objectives drives my commitment to excellence in software engineering.
