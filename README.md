@@ -28,11 +28,6 @@ Feel free to reach out via LinkedIn messages or email for any inquiries or acces
 
 ## Significant Projects from Professional Experience
 
-### Cosmote e-Value
-**Senior Software Engineer (Mar 2016 - Present)**
-- Developed and maintained enterprise applications using C#, .NET Core, and SQL Server.
-- Utilized technologies such as Blazor, Azure DevOps, and RESTful WebServices.
-
 ### European Dynamics
 **Senior Software Engineer (Oct 2012 - Mar 2016)**
 - Led multiple projects involving design, migration, development, integration, testing, and documentation.
@@ -62,6 +57,11 @@ Feel free to reach out via LinkedIn messages or email for any inquiries or acces
 **Senior Software Engineer / Key Analyst (Jul 2011 - Nov 2011)**
 - Developed a Business Process Management solution to optimize core company management procedures.
 - Utilized SharePoint 2010, IIS, and SQL Server for robust document and workflow management.
+
+### Cosmote e-Value
+**Senior Software Engineer (Mar 2016 - Present)**
+- Developed and maintained enterprise applications using C#, .NET Core, and SQL Server.
+- Utilized technologies such as Blazor, Azure DevOps, and RESTful WebServices.
 
 ## Additional Projects
 
