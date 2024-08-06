@@ -155,7 +155,7 @@ u.LogError(ex.Message, ex.InnerException.Message, 0, 0, DateTime.Now, ex.InnerEx
 ```
 
 ## Database Procedures
-The application relies on several SQL stored procedures to manage data operations:
+The application relies on several SQL stored procedures to manage data operations.
   
 ## Task Scheduler
 The application includes a task scheduler that runs with Windows Task Scheduler and checks schedules from a SQL database table. The scheduler manages tasks such as getting players, sending results, and updating consents.
