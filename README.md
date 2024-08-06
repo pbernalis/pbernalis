@@ -16,7 +16,7 @@ I have curated a selection of my significant projects on my GitHub profile. If y
 
 ## Projects
 
-- [CRM System](https://github.com/username/crm-system): Comprehensive CRM built with .NET Core 8, Blazor, and AI-driven chatbot integration using TensorFlow.
+- [CRM System](https://github.com/pbernalis/pbernalis/blob/main/CRMCore/readme.md): Comprehensive CRM built with .NET Core 8, Blazor, and AI-driven chatbot integration using TensorFlow.
 - [Language Learning Mobile Application](https://github.com/username/language-learning-app): Cross-platform app for vocabulary learning built with .NET Core 8 and .NET MAUI.
 - [Teacher Management Application](https://github.com/username/teacher-management-app): Java-based desktop application demonstrating OOP principles with Swing and MySQL.
 - [Retail Analytics and Market Analysis Project](https://github.com/username/retail-analytics): Data analysis using R for statistical analysis and predictive modeling.
