@@ -14,13 +14,13 @@ I am dedicated to staying at the forefront of technology, continuously exploring
 
 I have curated a selection of my significant projects on my GitHub profile. If you would like access to view my work, please contact me directly.
 
-### Projects
+## Projects
 
-- **CRM System**: Comprehensive CRM built with .NET Core 8, Blazor, and AI-driven chatbot integration using TensorFlow.
-- **Language Learning Mobile Application**: Cross-platform app for vocabulary learning built with .NET Core 8 and .NET MAUI.
-- **Teacher Management Application**: Java-based desktop application demonstrating OOP principles with Swing and MySQL.
-- **Retail Analytics and Market Analysis Project**: Data analysis using R for statistical analysis and predictive modeling.
-- **E-commerce Application**: Full-stack solution built with PHP and MySQL.
+- [CRM System](https://github.com/username/crm-system): Comprehensive CRM built with .NET Core 8, Blazor, and AI-driven chatbot integration using TensorFlow.
+- [Language Learning Mobile Application](https://github.com/username/language-learning-app): Cross-platform app for vocabulary learning built with .NET Core 8 and .NET MAUI.
+- [Teacher Management Application](https://github.com/username/teacher-management-app): Java-based desktop application demonstrating OOP principles with Swing and MySQL.
+- [Retail Analytics and Market Analysis Project](https://github.com/username/retail-analytics): Data analysis using R for statistical analysis and predictive modeling.
+- [E-commerce Application](https://github.com/username/e-commerce-app): Full-stack solution built with PHP and MySQL.
 - [BookLibraryManagementSystem](https://github.com/pbernalis/pbernalis/blob/main/BookLibraryManagementSystem/README.md).: Python application using Tkinter for managing library operations.
 - **AssignmentAI**: A sophisticated AI-based project created to assist in automated assignment grading and feedback generation, leveraging the power of machine learning and natural language processing.
 
