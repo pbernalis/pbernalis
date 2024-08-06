@@ -134,3 +134,7 @@ The profile screen of the language learning app displays the user's account info
 
 ## Contact
 For any questions or requests, please contact at [Panagiotis Bernalis](mailto:pbernalis@gmail.com).
+
+## License
+
+This project is licensed under the terms specified in this document. For more information, see the [LICENSE](https://github.com/pbernalis/pbernalis/blob/main/blob/main/License.md) file.
