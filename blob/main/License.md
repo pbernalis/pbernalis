@@ -24,5 +24,5 @@ The code and resources in this repository are provided "as is", without warranty
 
 ## License
 
-This project is licensed under the terms specified in this document. For more information, see the [LICENSE](LICENSE) file.
+This project is licensed under the terms specified in this document.
 
