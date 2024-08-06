@@ -145,10 +145,8 @@ The program then selects a random book from this category and returns its title 
 
 Additionally, there is an option to suggest an available book for borrowing, taking into account both the user's preferences and the number of loans for each book. This is done to recommend a book that is both preferred by the user and available for borrowing. The program offers an easy-to-use interface for selecting members and displaying suggestions.
 
-## Technical Support
-For any questions or bug reports regarding the application, you can contact the developer at [Panagiotis Bernalis](mailto:pbernalis@gmail.com) or open a new issue on the project's GitHub repository [BookLibraryManagementSystem](https://github.com/pbernalis/BookLibraryManagementSystem/issues).
-
+## Contact
+For any questions or requests, please contact at [Panagiotis Bernalis](mailto:pbernalis@gmail.com).
 
 ## License
-
 This project is licensed under the terms specified in this document. For more information, see the [LICENSE](https://github.com/pbernalis/pbernalis/blob/main/blob/main/License.md) file.
