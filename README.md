@@ -21,7 +21,7 @@ I have curated a selection of my significant projects on my GitHub profile. If y
 - **Teacher Management Application**: Java-based desktop application demonstrating OOP principles with Swing and MySQL.
 - **Retail Analytics and Market Analysis Project**: Data analysis using R for statistical analysis and predictive modeling.
 - **E-commerce Application**: Full-stack solution built with PHP and MySQL.
-- **Library Management System**: Python application using Tkinter for managing library operations.
+- [BookLibraryManagementSystem](https://github.com/pbernalis/pbernalis/blob/main/BookLibraryManagementSystem/README.md).: Python application using Tkinter for managing library operations.
 - **AssignmentAI**: A sophisticated AI-based project created to assist in automated assignment grading and feedback generation, leveraging the power of machine learning and natural language processing.
 
 Feel free to reach out via LinkedIn messages or email for any inquiries or access requests.
