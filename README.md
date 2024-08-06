@@ -17,9 +17,9 @@ I have curated a selection of my significant projects on my GitHub profile. If y
 ## Projects
 
 - [Language Learning Mobile Application](https://github.com/pbernalis/pbernalis/blob/main/MAUILanguageLearner/README.md): Cross-platform app for vocabulary learning built with .NET Core 8 and .NET MAUI.
-- [Teacher Management Application](https://github.com/username/teacher-management-app): Java-based desktop application demonstrating OOP principles with Swing and MySQL.
-- [Retail Analytics and Market Analysis Project](https://github.com/username/retail-analytics): Data analysis using R for statistical analysis and predictive modeling.
-- [E-commerce Application](https://github.com/username/e-commerce-app): Full-stack solution built with PHP and MySQL.
+- [Teacher Management Application](https://github.com/pbernalis/pbernalis/blob/main/JavaTeacherManager/README.md): Java-based desktop application demonstrating OOP principles with Swing and MySQL.
+- [Retail Analytics and Market Analysis Project](https://github.com/pbernalis/pbernalis/blob/main/Market-Analysis-R/README.md): Data analysis using R for statistical analysis and predictive modeling.
+- [E-commerce Application](https://github.com/pbernalis/pbernalis/blob/main/PizzaBites/Readme.md): Full-stack solution built with PHP and MySQL.
 - [BookLibraryManagementSystem](https://github.com/pbernalis/pbernalis/blob/main/BookLibraryManagementSystem/README.md).: Python application using Tkinter for managing library operations.
 - [CRM System](https://github.com/pbernalis/pbernalis/blob/main/CRMCore/readme.md): Comprehensive CRM built with .NET Core 8, Blazor, and AI-driven chatbot integration using TensorFlow.
 - [Neural Network Model Comparison AI](https://github.com/pbernalis/neural-network-model-comparisont-AI/blob/master/README.md): A sophisticated AI-based project created to assist in automated assignment grading and feedback generation, leveraging the power of machine learning and natural language processing.
