@@ -1,4 +1,4 @@
-# CRM System for Call Center
+# CRM System
 
 ## Overview
 Developed a Customer Relationship Management (CRM) system specifically designed for a call center, utilizing modern technologies to enhance customer and campaign management.
@@ -67,7 +67,6 @@ The Campaign.razor page is for editing information about a campaign within the C
 5. **User Interaction:** The page also allows user interaction through graphical elements such as text input fields, dropdown lists, and calendars. In general, the page is designed for managing, adding, and editing campaigns within a CRM application.
 
 ### Cases Page
-![Case.gif](gifs/Case.gif)
 
 The @page "/cases" presents cases related to customer management. The page consists of the following elements:
 1. **Navigation Button:** A navigation button labeled "Add" directs the user to another page with the URL "/caseitem" to add a new case.
@@ -76,7 +75,6 @@ The @page "/cases" presents cases related to customer management. The page consi
 4. **Toolbar Options:** Toolbar options at the top of the grid include search, export to PDF, Excel, and CSV, record selection per page, and other grid management options. A loading indicator is visible while the grid loads data.
 
 ### CaseItem Page
-![CaseItem.gif](gifs/CaseItem.gif)
 
 The @page "/caseitem" is an editing page for cases in Think CRM. It provides an editing environment where the user can view, edit, and save data for a specific case.
 Page content analysis:
@@ -88,7 +86,6 @@ Page content analysis:
 - The page includes functions for managing data, such as adding a new case, saving changes, and deleting the case.
 
 ### Case Page
-![Cases.gif](gifs/Cases.gif)
 
 The page includes the use of Microsoft's Blazor technology to create interactive web elements. Specifically, the page includes functions such as adding, editing, and deleting customer and case details through a data entry form. It also includes various control elements, such as dropdown lists, grids, and action buttons for managing data.
 Various services are used for data management, such as email management, social networks, phone calls, addresses, relative cases, relative customers, chats, collaboration, etc. The page provides the customer's case with all related information, such as other cases they may have and other associations with other customers or companies, as well as the type of association they may have.
@@ -130,7 +127,6 @@ The @page "/home" is written in Blazor, a technology that allows the creation of
 The page provides an overview of the CRM system data, possibly for use by administrators or others involved in case and activity management.
 
 ### Search Result Page
-![Search.gif](gifs/Search.gif)
 
 The @page "/searchresult" displays search results for a specific keyword (SearchText). Initially, the page creates a breadcrumb navigation bar showing the user's current location in the application. Depending on the user's location, they can navigate back to the home page or other relevant pages. Depending on whether search results (searchResults) have been retrieved, either a loading spinner is displayed while the results are loading, or the search results table is shown.
 The search results table contains a list of results, which are displayed in columns. The results contain information about the entity (Entity) and the search result text (SearchResultText). When the user clicks on a result, a new page opens with more information about that result. The page also includes CSS code for customizing the appearance of the loading spinner and navigation bar.
@@ -156,7 +152,6 @@ The @page "/contactitem" uses Microsoft's Blazor framework combined with Syncfus
 5. **History Management:** Fields display information about who created and modified the contact, along with respective dates.
 The page provides a flexible experience for editing contacts in the CRM with various configuration and information display options.
 ### Company Page
-![Company.gif](gifs/Company.gif)
 
 The @page "/company" uses Microsoft's Blazor framework combined with Syncfusion Blazor UI Components. Key features:
 1. **Company Editing Form:** The main area includes a form where the user can edit company details, such as name, surname, company type, description, phones, email addresses, social networks, etc.
