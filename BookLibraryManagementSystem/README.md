@@ -147,3 +147,8 @@ Additionally, there is an option to suggest an available book for borrowing, tak
 
 ## Technical Support
 For any questions or bug reports regarding the application, you can contact the developer at [Panagiotis Bernalis](mailto:pbernalis@gmail.com) or open a new issue on the project's GitHub repository [BookLibraryManagementSystem](https://github.com/pbernalis/BookLibraryManagementSystem/issues).
+
+
+## License
+
+This project is licensed under the terms specified in this document. For more information, see the [LICENSE](https://github.com/pbernalis/pbernalis/blob/main/blob/main/License.md) file.
