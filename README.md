@@ -22,7 +22,7 @@ I have curated a selection of my significant projects on my GitHub profile. If y
 - [E-commerce Application](https://github.com/pbernalis/pbernalis/blob/main/PizzaBites/Readme.md): Full-stack solution built with PHP and MySQL.
 - [BookLibraryManagementSystem](https://github.com/pbernalis/pbernalis/blob/main/BookLibraryManagementSystem/README.md).: Python application using Tkinter for managing library operations.
 - **CRM System**: Comprehensive CRM built with .NET Core 8, Blazor, and AI-driven chatbot integration using TensorFlow.
-- [Neural Network Model Comparison AI](https://github.com/pbernalis/neural-network-model-comparisont-AI/blob/master/README.md): A sophisticated AI-based project created to assist in automated assignment grading and feedback generation, leveraging the power of machine learning and natural language processing.
+- [Neural Network Model Comparison AI](https://github.com/pbernalis/pbernalis/blob/main/neural-network-model-comparisont-AI/README.md): A sophisticated AI-based project created to assist in automated assignment grading and feedback generation, leveraging the power of machine learning and natural language processing.
 
 Feel free to reach out via LinkedIn messages or email for any inquiries or access requests.
 
