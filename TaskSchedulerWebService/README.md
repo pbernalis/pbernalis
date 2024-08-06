@@ -1,13 +1,13 @@
 # Web Service Console Application
 
-This console application interacts with various OPAP web services to update campaign members, update consents, and get player details. The application is built using C# and .NET, with logging provided by log4net and configuration managed through `App.config`. Additionally, it includes a scheduler task that runs with Windows Task Scheduler to check schedules from a SQL database table.
+This console application interacts with various web services to manage user data, update user preferences, and retrieve user details. The application is built using C# and .NET, with logging provided by log4net and configuration managed through `App.config`. Additionally, it includes a scheduler task that runs with Windows Task Scheduler to check schedules from a SQL database table.
 
 ## Features
 
-- Update campaign members status
-- Update consents for members
-- Fetch and process player details
-- Obtain bearer tokens for authentication
+- Update user status
+- Manage user preferences
+- Fetch and process user details
+- Obtain authentication tokens
 - Robust error handling and logging
 - Task scheduling with Windows Task Scheduler
 
@@ -41,16 +41,15 @@ The application configuration is managed through the `App.config` file. Update t
 <configuration>
   <appSettings>
     <add key="baseUrl" value="your_api_baseUrl/"/>
-    <add key="UpdateConsentUrl" value="your_api_UpdateConsentUrl"/>
-    <add key="baseUrlOnline" value="your_api_baseUrlOnline"/>
-    <add key="UpdateConsentUrlOnline" value="your_api_UpdateConsentUrlOnline"/>
+    <add key="UpdatePreferencesUrl" value="your_api_UpdatePreferencesUrl"/>
+    <add key="UpdatePreferencesUrlOnline" value="your_api_UpdatePreferencesUrlOnline"/>
     <add key="APIusername" value="your_api_username"/>
     <add key="APIpassword" value="your_api_password"/>
     <add key="APIpasswordOnline" value="your_api_password_online"/>
     <add key="Proxy" value="your_proxy_address"/>
     <add key="chunkSize" value="100"/>
     <add key="AuthorizationHeader" value="your_authorization_header"/>
-    <add key="TokenConsentUrl" value="your_token_consent_url"/>
+    <add key="TokenPreferencesUrl" value="your_token_preferences_url"/>
   </appSettings>
   <connectionStrings>
     <add name="DefaultConnection" connectionString="your_connection_string" providerName="System.Data.SqlClient"/>
@@ -76,7 +75,7 @@ The main entry point of the application is the Main method in Program.cs. The ap
 - clsAPIOpap.cs: Contains the core logic for interacting with OPAP web services.
 - clsUtils.cs: Utility class for logging errors to the database.
 - App.config: Configuration file for the application.
-- ApiCaller.cs: Handles obtaining bearer tokens for authentication (online solution).
+- ApiCaller.cs: Handles obtaining bearer tokens for authentication (Realtime solution).
 
 
 ## Core Classes and Methods
@@ -101,7 +100,7 @@ The main entry point of the application is the Main method in Program.cs. The ap
 #### clsUtils.cs
 - LogError(): Method to log errors into the database.
 
-### Online Solution(Realtime)
+### Realtime Solution(Realtime)
 
 #### Program.cs (Online)
 - Main(): The main entry point of the application. Initializes logging, reads configuration, obtains bearer token, and starts the main process.
@@ -157,18 +156,6 @@ u.LogError(ex.Message, ex.InnerException.Message, 0, 0, DateTime.Now, ex.InnerEx
 
 ## Database Procedures
 The application relies on several SQL stored procedures to manage data operations:
-
-- API_membersPerAssign_GetLastJobId: Retrieves the last job ID.
-- API_UpdateCampaignMembersSelect: Selects campaign members to update.
-- API_UpdateConsentsSelect: Selects consents to update.
-- APIResultData_Insert: Inserts API result data.
-- APISendConsentsHistory_Insert: Inserts consent history.
-- APISendInteractionsHistory_Insert: Inserts interaction history.
-- LoadAssCases_OPAP_2: Executes ETL process.
-- APITaskUpdateLatestSuccessfullDate: Updates the latest successful date for a task.
-- APITaskUpdateLatestFailurefullDate: Updates the latest failure date for a task.
-- APIExecutionDetailsInsert: Inserts execution details.
-- APIErrors_Insert: Inserts error information.
   
 ## Task Scheduler
 The application includes a task scheduler that runs with Windows Task Scheduler and checks schedules from a SQL database table. The scheduler manages tasks such as getting players, sending results, and updating consents.
@@ -178,9 +165,9 @@ The application includes a task scheduler that runs with Windows Task Scheduler 
 The task scheduler configuration is managed through a dedicated form within the application. Here are the key fields to configure a task:
 
 - Task Name: Unique name for the task.
-- Campaign ID: Identifier of the campaign related to the task.
-- Campaign Name: Name of the campaign (online or retail).
-- Action: Type of action to execute (Get Players, Send Results, Update Consent).
+- User ID: Identifier of the user related to the task.
+- User Name: Name of the user (general or realtime).
+- Action: Type of action to execute.
 - Start Date: Start date of the task.
 - End Date: End date of the task.
 - Execution Time: Time when the task is scheduled to run.
@@ -188,10 +175,6 @@ The task scheduler configuration is managed through a dedicated form within the 
 - Days of Week (Optional): Days of the week if the task runs weekly.
 - Months of Year (Optional): Months and days of the week if the task runs monthly.
 - Comments: Additional comments describing the task.
-## Actions
-- Get Players: Executes API calls to fetch new players and processes the data.
-- Send Results: Sends the results of communications from the previous day.
-- Update Consent: Sends opt-out information from the previous day.
 
 ## Email Notifications
 The application includes an integrated email notification system to inform about task completion or errors. Successful completions include details such as task name, campaign information, and timestamps. Error notifications include error type, timestamps, and execution parameters.
