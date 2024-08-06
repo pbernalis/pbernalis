@@ -1,7 +1,7 @@
 # CRM System
 
 ## Overview
-Developed a Customer Relationship Management (CRM) system specifically designed for a call center, utilizing modern technologies to enhance customer and campaign management.
+Developed a Customer Relationship Management (CRM) system, utilizing modern technologies to enhance customer and campaign management.
 
 ## Key Features
 - **Customer Management:** Manage customer information, communication history, and interactions.
