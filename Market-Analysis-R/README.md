@@ -151,3 +151,7 @@ This project demonstrates comprehensive data analysis, visualization, and predic
 
 ## Contact
 For any questions or further information, please contact [Panagiotis Bernalis](mailto:pbernalis@gmail.com).
+
+## License
+
+This project is licensed under the terms specified in this document. For more information, see the [LICENSE](https://github.com/pbernalis/pbernalis/blob/main/blob/main/License.md) file.
