@@ -378,7 +378,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 </html>
 ```
 
-The @page "/help" provides help and FAQs for the Think CRM application, along with video tutorials for getting familiar with its features. A search field is available for quick access to answers to questions. Contact information is provided for any questions or support needed. The sections are styled to create a pleasant browsing experience for users.
+
 ## Links & References
 - [PHP Documentation](https://www.php.net/docs.php)
 - [MySQL Documentation](https://dev.mysql.com/doc/)
