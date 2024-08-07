@@ -112,7 +112,7 @@ This workflow supports any language, ensuring that every prompt is appropriately
 
 **Workflow:**
 - **Language Detection:** Greek
-- **Translation to English:** "This TV has fantastic picture quality, but the sound is not as good. What can I do to improve the sound?"
+- **Translation to English:** "What is the importance of cultural heritage for future generations?"
 - **Category Prediction:** Product Review, Quality Analysis, Improvement Suggestions
 - **Web Service Call:** The translated prompt and predicted categories are sent to the web service.
 - **Prompt Engineering:** Generate an enhanced prompt focusing on sound improvement for TVs.
@@ -122,7 +122,7 @@ This workflow supports any language, ensuring that every prompt is appropriately
 
 **Response (in Greek):**
 1. Η πολιτιστική κληρονομιά παρέχει πληθώρα πληροφοριών για το παρελθόν, το οποίο είναι σημαντικό για το παρόν και το μέλλον.Είναι επίσης ένα εργαλείο που μπορεί να χρησιμοποιηθεί για την καλύτερη κατανόηση της ιστορίας ενός συγκεκριμένου τόπου.
-2. Ο σκοπός της διατήρησης των πολιτιστικών χώρων είναι να τους προστατεύσει από βλάβη παρέχοντάς τους προστασία από βανδαλισμό, κλοπή και ζημιές που προκαλούνται από ανθρώπινες δραστηριότητες.Αυτό γίνεται με τον έλεγχο της πρόσβασης στον ιστότοπο, περιορίζοντας την χρονική περίοδο κατά την οποία το ακίνητο είναι ανοικτό σε δημόσια χρήση, διατηρώντας την ακεραιότητα των κτιρίων, προστατεύοντας το φυσικό περιβάλλον, διατηρώντας τους ιστορικούς και πολιτιστικούς πόρους, δημιουργώντας πολιτικές διατήρησης, ανάπτυξη σχεδίων διαχείρισης,Η διεξαγωγή έρευνας, η εκπαίδευση του κοινού, η παρακολούθηση της κατάστασης των ακινήτων, η αξιολόγηση των επιπτώσεων των προγραμμάτων συντήρησης, η επικοινωνία με την κοινότητα κλπ. Ένας πολιτιστικός χώρος ορίζεται ως τόπος όπου οι άνθρωποι έχουν ή ζουν και εργάζονται επί του παρόντος.Σε αυτό
+2. Ο σκοπός της διατήρησης των πολιτιστικών χώρων είναι να τους προστατεύσει από βλάβη παρέχοντάς τους προστασία από βανδαλισμό, κλοπή και ζημιές που προκαλούνται από ανθρώπινες δραστηριότητες.Αυτό γίνεται με τον έλεγχο της πρόσβασης, περιορίζοντας την χρονική περίοδο κατά την οποία το ακίνητο είναι ανοικτό σε δημόσια χρήση, διατηρώντας την ακεραιότητα των κτιρίων, προστατεύοντας το φυσικό περιβάλλον, διατηρώντας τους ιστορικούς και πολιτιστικούς πόρους, δημιουργώντας πολιτικές διατήρησης, ανάπτυξη σχεδίων διαχείρισης,Η διεξαγωγή έρευνας, η εκπαίδευση του κοινού, η παρακολούθηση της κατάστασης των ακινήτων, η αξιολόγηση των επιπτώσεων των προγραμμάτων συντήρησης, η επικοινωνία με την κοινότητα κλπ. Ένας πολιτιστικός χώρος ορίζεται ως τόπος όπου οι άνθρωποι έχουν ή ζουν και εργάζονται επί του παρόντος.
  
 
 **Workflow:**
@@ -141,8 +141,9 @@ In the next version of the code, there will be several fine-tuned models based o
 - **Enhanced Response Generation:** The identified fine-tuned model will be used to generate more accurate and contextually appropriate responses.
 - **Improved Answer Quality:** This approach will ensure better responses and answers to the prompts, enhancing the overall effectiveness of the tool.
 
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+## Contact
+For any questions or requests, please contact [Panagiotis Bernalis] at [pbernalis@gmail.com].
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
+This project is licensed under the terms specified in this document. For more information, see the [LICENSE](https://github.com/pbernalis/pbernalis/blob/main/blob/main/License.md) file.
