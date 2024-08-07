@@ -1,4 +1,4 @@
-# AI Text Analyzer
+# AI Text Analyzer AdaptiveChat AI
 
 A comprehensive AI-powered tool for text analysis, categorization, sentiment analysis, and interactive prompt-response sessions with translation capabilities.
 
