@@ -124,17 +124,6 @@ This workflow supports any language, ensuring that every prompt is appropriately
 1. Η πολιτιστική κληρονομιά παρέχει πληθώρα πληροφοριών για το παρελθόν, το οποίο είναι σημαντικό για το παρόν και το μέλλον.Είναι επίσης ένα εργαλείο που μπορεί να χρησιμοποιηθεί για την καλύτερη κατανόηση της ιστορίας ενός συγκεκριμένου τόπου.
 2. Ο σκοπός της διατήρησης των πολιτιστικών χώρων είναι να τους προστατεύσει από βλάβη παρέχοντάς τους προστασία από βανδαλισμό, κλοπή και ζημιές που προκαλούνται από ανθρώπινες δραστηριότητες.Αυτό γίνεται με τον έλεγχο της πρόσβασης, περιορίζοντας την χρονική περίοδο κατά την οποία το ακίνητο είναι ανοικτό σε δημόσια χρήση, διατηρώντας την ακεραιότητα των κτιρίων, προστατεύοντας το φυσικό περιβάλλον, διατηρώντας τους ιστορικούς και πολιτιστικούς πόρους, δημιουργώντας πολιτικές διατήρησης, ανάπτυξη σχεδίων διαχείρισης,Η διεξαγωγή έρευνας, η εκπαίδευση του κοινού, η παρακολούθηση της κατάστασης των ακινήτων, η αξιολόγηση των επιπτώσεων των προγραμμάτων συντήρησης, η επικοινωνία με την κοινότητα κλπ. Ένας πολιτιστικός χώρος ορίζεται ως τόπος όπου οι άνθρωποι έχουν ή ζουν και εργάζονται επί του παρόντος.
  
-
-**Workflow:**
-- **Language Detection:** Chinese
-- **Translation to English:** "I have been feeling very tired lately. Is there any way to boost my energy levels?"
-- **Category Prediction:** Health Advice, Fatigue, Energy Boost
-- **Web Service Call:** The translated prompt and predicted categories are sent to the web service.
-- **Prompt Engineering:** Generate an enhanced prompt focusing on advice for boosting energy levels.
-- **Answer Generation:** Detailed advice on how to boost energy levels.
-- **Translation to Original Language:** Translate the energy-boosting advice back to Chinese.
-- **Output Response (in Chinese):** Provide the translated advice to the user.
-
 ## Future Enhancements
 In the next version of the code, there will be several fine-tuned models based on the predicted categories. The system will:
 - **Identify Fine-Tuned Models:** Based on the predicted categories, the system will identify the most appropriate fine-tuned model.
