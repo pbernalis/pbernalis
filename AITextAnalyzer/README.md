@@ -16,11 +16,11 @@ A comprehensive AI-powered tool for text analysis, categorization, sentiment ana
 - [License](#license)
 
 ## Overview
-This project utilizes models such as the SentenceTransformer for embedding text and BERT for sentiment analysis. It is designed to handle a variety of tasks including categorization, sentiment analysis, and identification of specific text characteristics such as tone, learning style, and more.
+This project utilizes models such as the SentenceTransformer for embedding text and sentiment analysis. It is designed to handle a variety of tasks including categorization, sentiment analysis, and identification of specific text characteristics such as tone, learning style, and more.
 
 ## Features
 - **Text Embedding:** Uses SentenceTransformer to encode text into embeddings.
-- **Sentiment Analysis:** Employs BERT for multilingual sentiment analysis.
+- **Sentiment Analysis:** Employs for multilingual sentiment analysis.
 - **Category Prediction:** Predicts detailed categories based on input text.
 - **Context Identification:** Determines the context and experience level from the text.
 - **Preference and Skill Mapping:** Maps text to specific preferences and skills.
