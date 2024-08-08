@@ -1,6 +1,6 @@
 # Hospital Information System Oracle APEX
 
-A comprehensive Hospital Information System developed using Oracle APEX and Oracle SQL Developer Data Modeler. This project includes advanced database design, automated schema creation, a user-friendly interface, and role-based access control, aimed at optimizing hospital operations and improving data accuracy and efficiency.
+A comprehensive Hospital Information System developed using Oracle APEX and Oracle SQL Developer Data Modeler. This project includes database design, automated schema creation, a user-friendly interface, and role-based access control, aimed at optimizing hospital operations and improving data accuracy and efficiency.
 
 ## Project Overview
 
