@@ -176,7 +176,6 @@ The @page "/help" provides help and FAQs for the Think CRM application, along wi
 ## Links & References
 - [Microsoft .NET Core Documentation](https://learn.microsoft.com/en-us/dotnet/core/)
 - [Blazor Documentation](https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-8.0)
-- [TensorFlow Documentation](https://www.tensorflow.org/api_docs)
 - [Postman Documentation](https://learning.postman.com/docs/)
 
 
