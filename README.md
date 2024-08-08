@@ -21,7 +21,7 @@ I have curated a selection of my significant projects on my GitHub profile. If y
 - [Retail Analytics and Market Analysis Project](https://github.com/pbernalis/pbernalis/blob/main/Market-Analysis-R/README.md): Data analysis using R for statistical analysis and predictive modeling.
 - [E-commerce Application](https://github.com/pbernalis/pbernalis/blob/main/PizzaBites/Readme.md): Full-stack solution built with PHP and MySQL.
 - [BookLibraryManagementSystem](https://github.com/pbernalis/pbernalis/blob/main/BookLibraryManagementSystem/README.md).: Python application using Tkinter for managing library operations.
-- **CRM System**: Comprehensive CRM built with .NET Core 8, Blazor, and AI-driven chatbot integration using TensorFlow.
+- **CRM System**: Comprehensive CRM built with .NET Core 8, Blazor, and AI-driven chatbot integration.
 - [Simple ASP.NET Web API](https://github.com/pbernalis/pbernalis/blob/main/SimpleWebAPI/README.md): A simple ASP.NET Web API project demonstrating user authentication and logging functionalities with OWIN, Entity Framework, and Log4Net.
 - [Neural Network Model Comparison AI](https://github.com/pbernalis/pbernalis/blob/main/neural-network-model-comparisont-AI/README.md): A sophisticated AI-based project created to assist in automated assignment grading and feedback generation, leveraging the power of machine learning and natural language processing.
 - [AI Text Analyzer(AdaptiveChat AI)](https://github.com/pbernalis/pbernalis/blob/main/AITextAnalyzer/README.md): A comprehensive AI-powered tool for text analysis, categorization, sentiment analysis, and interactive prompt-response sessions with translation capabilities.
