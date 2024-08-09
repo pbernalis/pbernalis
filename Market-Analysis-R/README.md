@@ -150,7 +150,7 @@ The results indicate that the model performs well in predicting user behavior bu
 This project demonstrates comprehensive data analysis, visualization, and predictive modeling skills using R. The insights derived and the predictive models built can significantly aid in targeted marketing and sales forecasting.
 
 ## Contact
-For any questions or further information, please contact [Panagiotis Bernalis](mailto:pbernalis@gmail.com).
+For any inquiries or access requests, please reach out via [LinkedIn](https://www.linkedin.com/in/pbernalis/) or email at [pbernalis@gmail.com](mailto:pbernalis@gmail.com).
 
 ## License
 
