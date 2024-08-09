@@ -105,7 +105,7 @@ The API will be accessible at `http://localhost:portnumber`.
 
 
 ## Contact
-For any questions or requests, please contact at [Panagiotis Bernalis](mailto:pbernalis@gmail.com).
+For any inquiries or access requests, please reach out via [LinkedIn](https://www.linkedin.com/in/pbernalis/) or email at [pbernalis@gmail.com](mailto:pbernalis@gmail.com).
 
 ## License
 This project is licensed under the terms specified in this document. For more information, see the [LICENSE](https://github.com/pbernalis/pbernalis/blob/main/blob/main/License.md) file.
