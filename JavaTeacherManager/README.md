@@ -95,7 +95,7 @@ The form for updating or deleting an existing teacher.
 
 
 ## Contact
-For any questions or requests, please contact at [Panagiotis Bernalis](mailto:pbernalis@gmail.com).
+For any inquiries or access requests, please reach out via [LinkedIn](https://www.linkedin.com/in/pbernalis/) or email at [pbernalis@gmail.com](mailto:pbernalis@gmail.com).
 
 ## License
 
