@@ -355,7 +355,7 @@ The training process is logged into `training.log` file for further analysis.
 
 ## Contact
 
-For any questions or requests, please contact [Panagiotis Bernalis](mailto:pbernalis@gmail.com).
+For any inquiries or access requests, please reach out via [LinkedIn](https://www.linkedin.com/in/pbernalis/) or email at [pbernalis@gmail.com](mailto:pbernalis@gmail.com).
 
 ## License
 
