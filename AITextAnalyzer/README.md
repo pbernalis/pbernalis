@@ -131,7 +131,7 @@ In the next version of the code, there will be several fine-tuned models based o
 - **Improved Answer Quality:** This approach will ensure better responses and answers to the prompts, enhancing the overall effectiveness of the tool.
 
 ## Contact
-For any questions or requests, please contact [Panagiotis Bernalis] at [pbernalis@gmail.com].
+For any inquiries or access requests, please reach out via [LinkedIn](https://www.linkedin.com/in/pbernalis/) or email at [pbernalis@gmail.com](mailto:pbernalis@gmail.com).
 
 ## License
 
