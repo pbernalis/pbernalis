@@ -131,10 +131,8 @@ The profile screen of the language learning app displays the user's account info
 - YouTube Video: An introductory video showcasing the main features and user interface of the language learning app.
   
   [Watch the Video](https://www.youtube.com/watch?v=kjEgUELkBt0)
-<video width="640" height="360" controls>
-  <source src="screenshots/Humanigram%20Language%20Learning%20Made%20Easy.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+  [Watch the ADVideo](https://youtu.be/qCGkk4Npfbo)
 
 ## Contact
 For any inquiries or access requests, please reach out via [LinkedIn](https://www.linkedin.com/in/pbernalis/) or email at [pbernalis@gmail.com](mailto:pbernalis@gmail.com).
