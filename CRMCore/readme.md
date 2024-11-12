@@ -182,7 +182,7 @@ The @page "/help" provides help and FAQs for the Think CRM application, along wi
 
 
 ## Contact
-For any inquiries or access requests, please reach out via [LinkedIn](https://www.linkedin.com/in/pbernalis/) or email at [pbernalis@gmail.com](mailto:pbernalis@gmail.com).
+For any inquiries or access requests, please reach out via [LinkedIn](https://www.linkedin.com/in/pbernalis/).
 
 ## License
 
