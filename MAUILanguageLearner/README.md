@@ -140,7 +140,7 @@ The profile screen of the language learning app displays the user's account info
   [Watch the Video](https://www.youtube.com/watch?v=kjEgUELkBt0)
 
 ## Contact
-For any inquiries or access requests, please reach out via [LinkedIn](https://www.linkedin.com/in/pbernalis/) or email at [pbernalis@gmail.com](mailto:pbernalis@gmail.com).
+For any inquiries or access requests, please reach out via [LinkedIn](https://www.linkedin.com/in/pbernalis/).
 
 ## License
 
